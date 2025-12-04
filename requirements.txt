@@ -6,4 +6,5 @@ gymnasium
 imageio
 rerun-sdk            
 pytest            
-matplotlib        
+matplotlib       
+seaborn 
